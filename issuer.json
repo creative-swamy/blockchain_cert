@@ -4,7 +4,7 @@
     "https://w3id.org/blockcerts/v2"
   ],
   "type": "Profile",
-  "id": "https://www.blockcerts.org/samples/2.0/issuer-testnet.json",
+  "id": "https://github.com/creative-swamy/blockchain_cert/blob/master/issuer.json",
   "name": "University of Learning",
   "url": "https://www.issuer.org",
   "introductionURL": "https://www.issuer.org/intro/",
