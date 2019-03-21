@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://w3id.org/blockcerts/samples/2.0/revocation-list-testnet.json",
+  "id": "https://github.com/creative-swamy/blockchain_cert/blob/master/revocation-list.json",
   "type": "RevocationList",
   "issuer": "https://w3id.org/blockcerts/samples/2.0/issuer-testnet.json",
   "revokedAssertions": [
