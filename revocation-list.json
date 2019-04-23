@@ -2,7 +2,7 @@
   "@context": "https://w3id.org/openbadges/v2",
   "id": "https://raw.githubusercontent.com/creative-swamy/blockchain_cert/master/issuer.json",
   "type": "RevocationList",
-  "issuer": "https://github.com/creative-swamy/blockchain_cert/blob/master/issuer.json",
+  "issuer": "https://raw.githubusercontent.com/creative-swamy/blockchain_cert/master/issuer.json",
   "revokedAssertions": [
     {
       "id": "urn:uuid:93019408-acd8-4420-be5e-0400d643954a",
